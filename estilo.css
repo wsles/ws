@@ -1,0 +1,31 @@
+.h1 {
+    font-size: 100px;
+    height: 1000px;
+    text-align: center;
+    color:blue; font-size: 100;
+    height: 1000px;
+}
+
+
+.tudoTela{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+{
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Garante que o body ocupe 100% da altura da tela */
+    margin: 0; /* Remove qualquer margem padrão */
+}
+
+
+.h1 {
+    text-align: center;
+    color: blue;
+    font-size: 100px;
+}
